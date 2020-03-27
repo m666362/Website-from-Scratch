@@ -76,6 +76,7 @@ nav{
 #sec_wrap{
     -ms-flex: 70%;
     flex: 70%;
+    padding: 4px 12px;
 }
 #section{
     float: left;
@@ -99,8 +100,8 @@ footer{
     }
 }
 h2{
-    margin: 8px 4px;
+    margin: 12px 4px;
 }
 p{
-    margin: 8px 4px;
+    margin: 12px 4px;
 }
